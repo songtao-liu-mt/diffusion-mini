@@ -9,7 +9,7 @@
 
 ```shell
 python main.py
-
+```
 
 TODO:
 1. 实现DDIM的加速采样
